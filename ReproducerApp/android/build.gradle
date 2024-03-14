@@ -15,6 +15,10 @@ buildscript {
         classpath("com.android.tools.build:gradle")
         classpath("com.facebook.react:react-native-gradle-plugin")
         classpath("org.jetbrains.kotlin:kotlin-gradle-plugin")
+        classpath ("com.facebook.react:react-native-vector-icons:10.0.3")
+        classpath ("com.facebook.react:react-native-linear-gradient:2.8.3")
+        classpath ("com.facebook.react:react-native-gesture-handler:2.15.0")
+
     }
 }
 

@@ -1,4 +1,4 @@
-package com.reproducerapp
+package com.vivmart.customer
 
 import android.app.Application
 import com.facebook.react.PackageList
