@@ -1,0 +1,43 @@
+[
+    {
+      "brand": "Amul",
+      "name": "Hatsun Curd",
+      "image": "assets/hatsuncurd.avif",
+      "weight": "500 g",
+      "price": 40
+    },
+    {
+      "brand": "Amul",
+      "name": " MithaiMate Condensed Milk",
+      "image": "./assets/amulmithaimatecondensedmilk.avif",
+      "weight": "200 g",
+      "price": 66
+    },
+    {
+      "brand": "Amul",
+      "name": " Cheese Slices",
+      "image": "./assets/amulpuremilkcheeseslices.avif",
+      "weight": "200 g",
+      "price": 145
+    },
+    {
+      "name": "WholeWheat Bread",
+      "image": "./assets/wholewheatbread.avif",
+      "weight": "400 g",
+      "price": 45
+    },
+    {
+      "name": "Sandwich Bread",
+      "image": "assets/sandwichbread.avif",
+      "weight": "500 g",
+      "price": 55
+    },
+    {
+      "brand": "Amul",
+      "name": "Salted Butter",
+      "image": "assets/saltedbutter.avif",
+      "weight": "200 g",
+      "price": 145
+    }
+   
+  ]

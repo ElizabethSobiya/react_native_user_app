@@ -1,0 +1,267 @@
+[
+  {
+    "id": "1",
+    "brand": "Amul",
+    "name": "Hatsun Curd",
+    "image": "https://media.istockphoto.com/id/1620362728/photo/sweet-and-sour-curd-yogurt-dahi-and-doi-served-in-dish-isolated-on-background-top-view-of.jpg?s=1024x1024&w=is&k=20&c=g-WJUtI-16R54HE0JAKY67GGlpEOSlW2YBiSVbRLBPw=",
+    "weight": "500 g",
+    "price": 40,
+    "discountPrice": 35
+  },
+  {
+    "id": "2",
+    "brand": "Amul",
+    "name": "MithaiMate Condensed Milk",
+    "image": "https://images.unsplash.com/photo-1528750997573-59b89d56f4f7?q=80&w=3056&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "weight": "200 g",
+    "price": 66,
+    "discountPrice": 60
+  },
+  {
+    "id": "3",
+    "brand": "Amul",
+    "name": "Cheese Slices",
+    "image": "https://images.unsplash.com/photo-1626957341926-98752fc2ba90?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "weight": "200 g",
+    "price": 145,
+    "discountPrice": 130
+  },
+  {
+    "id": "4",
+    "name": "WholeWheat Bread",
+    "image": "https://images.unsplash.com/photo-1537200275355-4f0c0714f777?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "weight": "400 g",
+    "price": 45,
+    "discountPrice": null
+  },
+  {
+    "id": "5",
+    "name": "Sandwich Bread",
+    "image": "https://images.unsplash.com/photo-1539252554453-80ab65ce3586?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "weight": "500 g",
+    "price": 55,
+    "discountPrice": 50
+  },
+  {
+    "id": "6",
+    "brand": "Amul",
+    "name": "Salted Butter",
+    "image": "https://images.unsplash.com/photo-1663054801573-9201c80635a0?q=80&w=3027&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "weight": "200 g",
+    "price": 145,
+    "discountPrice": 140
+  },
+  {
+    "id": "7",
+    "name": "Apple Herbal",
+    "image": "./assets/appleherbal.avif",
+    "description": "Product description goes here.",
+    "price": 145,
+    "discountPrice": 130
+  },
+  {
+    "id": "8",
+    "name": "Brainfreeze Herbal",
+    "image": "../assets/brainfreezeherbal.avif",
+    "description": "Product description goes here.",
+    "price": 90,
+    "discountPrice": 80
+  },
+  {
+    "id": "9",
+    "name": "Kiwi Herbal",
+    "image": "./assets/kiwiherbal.avif",
+    "description": "Product description goes here.",
+    "price": 75,
+    "discountPrice": 70
+  },
+  {
+    "id": "10",
+    "name": "Chief Commissioner",
+    "image": "./assets/chiefcommissioner.avif",
+    "description": "Product description goes here.",
+    "price": 120,
+    "discountPrice": 110
+  },
+  {
+    "id": "11",
+    "name": "Magaipaan Herbal",
+    "image": "./assets/magaipaanherbal.avif",
+    "description": "Product description goes here.",
+    "price": 30,
+    "discountPrice": null
+  },
+  {
+    "id": "12",
+    "name": "Bombay Paan Masala",
+    "image": "./assets/bombaypaanmasala.avif",
+    "description": "Product description goes here.",
+    "price": 80,
+    "discountPrice": 70
+  },
+  {
+    "id": "13",
+    "name": "StashPro",
+    "image": "./assets/stashpro.avif",
+    "description": "Product description goes here.",
+    "price": 10,
+    "discountPrice": null
+  },
+  {"id": "14",
+    "name": "Ultimate",
+    "image": "./assets/ulimate.avif",
+    "description": "Product description goes here.",
+    "price": 15,
+    "discountPrice": null
+  },
+  {"id": "15",
+    "name": "Brown Rolling Cones",
+    "image": "../assets/brownrollingcones.avif",
+    "description": "Product description goes here.",
+    "price": 20
+  },
+  {"id": "16",
+    "name": "Roach with Crushing",
+    "image": "../assets/roachwithcrushing.avif",
+    "description": "Product description goes here.",
+    "price": 8
+  },
+  {"id": "17",
+    "name": "Organic Hemp",
+    "image": "../assets/organichemp.avif",
+    "description": "Product description goes here.",
+    "price": 12
+  },
+  {"id": "18",
+    "name": "White Slim Rolling",
+    "image": "../assets/whiteslimrolling.avif",
+    "description": "Product description goes here.",
+    "price": 18
+  },
+  {"id": "19",
+    "name": "Black Classic Slim",
+    "image": "../assets/blackclassicslim.avif",
+    "description": "Product description goes here.",
+    "price": 22
+  },
+  {"id": "20",
+    "name": "Slim Rolling Paper ",
+    "image": "../assets/slimrollingpaper(kingsize).avif",
+    "description": "Product description goes here.",
+    "price": 16
+  },
+  {"id": "21",
+    "name": "GreenApple RollingPaper",
+    "image": "../assets/slimrollingpapergreen.avif",
+    "description": "Product description goes here.",
+    "price": 25
+  },
+  {"id": "22",
+    "name": "Bisleri",
+    "image": "../assets/bisleri.avif",
+    "description": "Product description goes here.",
+    "price": 145
+  },
+  {"id": "23",
+    "name": "Orange",
+    "image": "../assets/orange.avif",
+    "description": "Product description goes here.",
+    "price": 145
+  },
+  {"id": "24",
+    "name": "Sprite",
+    "image": "/assets/sprite.avif",
+    "description": "Product description goes here.",
+    "price": 145
+  },
+  {"id": "25",
+    "name": "Kinley Soda",
+    "image": "../assets/kinleysoda.avif",
+    "description": "Product description goes here.",
+    "price": 145
+  },
+
+  {"id": "26",
+    "name": "Red Bull",
+    "image": "../assets/redbull.avif",
+    "description": "Product description goes here.",
+    "price": 145
+  },
+  {"id": "27",
+    "name": "String Energy",
+    "image": "../assets/stringenergy.avif",
+    "description": "Product description goes here.",
+    "price": 145
+  },
+  {"id": "28",
+    "name": "Monster Energy",
+    "image": "../assets/Monsterenergy.avif",
+    "description": "Product description goes here.",
+    "price": 145
+  },
+
+  {"id": "29",
+    "name": "Lychee",
+    "image": "../assets/lychee.avif",
+    "description": "Product description goes here.",
+    "price": 145
+  },
+  {"id": "30",
+    "name": "Maaza Mango",
+    "image": "../assets/maazamongo.avif",
+    "description": "Product description goes here.",
+    "price": 145
+  },
+  {"id": "31",
+    "name": "Coca Cola",
+    "image": "../assets/cocacola.avif",
+    "description": "Product description goes here.",
+    "price": 145
+  },
+  {"id": "32",
+    "name": "Pepsi",
+    "image": "../assets/pespi.avif",
+    "description": "Product description goes here.",
+    "price": 145
+  },
+  {"id": "33",
+    "name": "Slice",
+    "image": "../assets/slice.avif",
+    "description": "Product description goes here.",
+    "price": 145
+  },
+  {"id": "34",
+    "name": "DNA Appalam Papad",
+    "image": "./assets/DNAappalampapad.avif",
+    "description": "Product description goes here.",
+    "price": 145
+  },
+
+  {"id": "34",
+    "name": "Lays American Onion Potato",
+    "image": "./assets/laysamericanonionpotato.avif",
+    "description": "Product description goes here."
+  },
+  {"id": "35",
+    "name": "Doritos Sweet Chilli Flour Nachos",
+    "image": "./assets/doritossweetchilliflournachos.avif",
+    "description": "Product description goes here."
+  },
+
+  {"id": "36",
+    "name": "Haldiram Nagpur Masala Kaju",
+    "image": "./assets/Haldiramnagpur.avif",
+    "description": "Product description goes here."
+  },
+  {"id": "37",
+    "name": "A2B Ribbon Pakoda Namkeen",
+    "image": "./assets/A2Bribbonpakodanamkeen.avif",
+    "description": "Product description goes here."
+  },
+
+  {"id": "38",
+    "name": "Act II Golden Sizzle Popcorn",
+    "image": "./assets/actiigoldensizzlepopcorn.avif",
+    "description": "Product description goes here."
+  }
+]
